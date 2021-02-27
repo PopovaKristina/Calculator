@@ -7,7 +7,7 @@ public class WorkWithNumbers {
     static final String[] arabicNumbers = new String[]{"1", "2", "3", "4", "5", "6", "7", "8", "9", "10"};
 
     //массив с римскими цифрами
-    static final String[] romanNumbers = new String[]{"I", "II", "III", "IV", "V", "VI", "VII", "VIII", "XI", "X"};
+    static final String[] romanNumbers = new String[]{"I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"};
 
     static void runParseAndCalc(String example) throws MyException {
 
